@@ -7,7 +7,7 @@
     <section id="hero" class="d-flex align-items-center">
         <div class="container">
             <h1>Selamat Datang</h1>
-            <h2>Di Rumah Sakit Kebumen 2</h2>
+            <h2>Di Rumah Sakit AMBARawa</h2>
             <a href="/antrian" class="btn-get-started scrollto">Ambil Antrian</a>
         </div>
     </section><!-- End Hero -->
@@ -21,7 +21,7 @@
                         <div class="content">
                             <h3>Sistem Antrian Online</h3>
                             <p>
-                                Ini adalah Sistem Antrian Online Rumah Sakit Kebumen 2 dimana setiap pengunjung dapat
+                                Ini adalah Sistem Antrian Online Rumah Sakit AMBARawa dimana setiap pengunjung dapat
                                 mengambil antrian
                                 Sesuai Poliklinik terlebih dahulu dari rumah
                             </p>
